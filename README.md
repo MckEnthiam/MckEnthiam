@@ -1,1 +1,1 @@
-![Bubbles](./svg.svg)
+<img src="./svg.svg" />
