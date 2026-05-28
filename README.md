@@ -1,1 +1,1 @@
-![Bubbles](./sg.svg)
+![Bubbles](./svg.svg)
