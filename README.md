@@ -2,6 +2,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MckEnthiam&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-</div>
 
 ![Bubbles](./bubbles.svg)
+</div>
